@@ -4,9 +4,11 @@ author: "Agustín Serfaty"
 lang: es
 ---
 
+![](certificaciones/foto-perfil.jpg){width=3.5cm}
+
 # Agustín Serfaty
 
-**Profesor de Educación Física** · Preparador Físico · Guardavidas · Instructor de Vela
+**Preceptor — Colegio de la Inmaculada Concepción (Santa Fe)** · Profesor de Educación Física · Preparador Físico · Guardavidas · Instructor de Vela
 
 Santa Fe, Argentina · (+54) 342 5266153 · agustinserfaty2@gmail.com
 Movilidad propia (auto y registro de conducir)

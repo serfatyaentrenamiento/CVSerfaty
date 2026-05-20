@@ -4,9 +4,11 @@ author: "Agustín Serfaty"
 lang: es
 ---
 
+![](certificaciones/foto-perfil.jpg){width=3.5cm}
+
 # Agustín Serfaty
 
-**Instructor de Vela (FAY · World Sailing)** · Timonel Yate Vela y Motor (PNA) · Guardavidas · Profesor de Educación Física
+**Preceptor — Colegio de la Inmaculada Concepción (Santa Fe)** · Instructor de Vela (FAY · World Sailing) · Timonel Yate Vela y Motor (PNA) · Guardavidas · Profesor de Educación Física
 
 Santa Fe, Argentina · (+54) 342 5266153 · agustinserfaty2@gmail.com
 Movilidad propia (auto y registro de conducir)
@@ -15,7 +17,7 @@ Movilidad propia (auto y registro de conducir)
 
 ## Perfil profesional
 
-Instructor náutico con más de cinco años de experiencia en enseñanza de vela a niños y adolescentes en clase Optimist, certificado por la **Federación Argentina de Yachting (aval World Sailing), Categoría C.T.1 — especialidad Dinghy** (Licencia 313-24, vigente hasta 05/2028). Timonel habilitado por Prefectura Naval Argentina para Yate Vela y Motor. Guardavidas en actividad desde 2019, con experiencia en natatorios y aguas abiertas. Profesor de Educación Física (ISEF Nº 27, promedio 8,23; práctica de la enseñanza 9,0), con sólida formación pedagógica orientada a la planificación de clases, el manejo grupal y la seguridad en el agua.
+Preceptor titular del Colegio de la Inmaculada Concepción de Santa Fe (cargo principal en actividad). Instructor náutico con cinco años de experiencia en enseñanza de vela a niños y adolescentes en clase Optimist (2019 – 02/2024), certificado por la **Federación Argentina de Yachting (aval World Sailing), Categoría C.T.1 — especialidad Dinghy** (Licencia 313-24, vigente hasta 05/2028). Timonel habilitado por Prefectura Naval Argentina para Yate Vela y Motor. Guardavidas en actividad desde 2019, con experiencia en natatorios y aguas abiertas. Profesor de Educación Física (ISEF Nº 27, promedio 8,23; práctica de la enseñanza 9,0), con sólida formación pedagógica orientada a la planificación de clases, el manejo grupal y la seguridad en el agua.
 
 ---
 
@@ -32,7 +34,7 @@ Instructor náutico con más de cinco años de experiencia en enseñanza de vela
 ## Experiencia náutica y acuática
 
 ### Instructor de Escuela de Vela — Club Náutico Sur, Santa Fe
-*2019 – 02/2024*
+*2019 – 02/2024 (5 años)*
 - Conducción de clases de vela en clase **Optimist** a niños y adolescentes de 7 a 15 años.
 - Planificación de prácticas en agua: armado y desarme de embarcaciones, fundamentos de navegación, reglamento, viento y maniobras básicas (ceñida, través, popa, virada por avante y por redondo).
 - Enseñanza de **seguridad a bordo**, uso de chaleco salvavidas, procedimientos ante vuelco y autorescate.
@@ -75,9 +77,16 @@ Instructor náutico con más de cinco años de experiencia en enseñanza de vela
 
 ---
 
-## Otra experiencia docente y deportiva
+## Experiencia docente actual
 
-- **Preceptor titular** — Colegio Inmaculada Concepción, Santa Fe (03/2023 – Actualidad). Acompañamiento pedagógico y disciplinar de cursos secundarios.
+### Preceptor titular — Colegio de la Inmaculada Concepción, Santa Fe
+*03/2023 – Actualidad*
+- Acompañamiento pedagógico y disciplinar de cursos de nivel secundario en uno de los colegios de mayor tradición de la ciudad.
+- Coordinación con docentes, dirección y familias; gestión administrativa del curso.
+- Titularización del cargo tras desempeño como suplente.
+
+### Otra experiencia deportiva
+
 - **Preparador Físico de Básquet (U13, U15, U17)** — Club Regatas Santa Fe (2024).
 - **Profesor de Escuelita de Rugby (4 a 7 años)** — Club Universitario Santa Fe (2024).
 

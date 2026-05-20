@@ -47,6 +47,11 @@ El `.docx` resultante es plano, en una sola columna, sin tablas ni cuadros de te
 
 **Regla HR**: incluir palabras clave del aviso o descripción del puesto en el cuerpo del CV (en perfil, bullets o competencias). Eso ayuda al filtro automático.
 
+## Reglas fijas (aplican a TODAS las versiones del CV)
+
+- **Foto de perfil**: incluir siempre `certificaciones/foto-perfil.jpg` arriba del encabezado.
+- **Rol de Preceptor**: el cargo de **Preceptor del Colegio de la Inmaculada Concepción (Santa Fe)** debe aparecer siempre en el encabezado y en el cuerpo del CV, incluso cuando la postulación no sea docente. Es el rol principal en actividad y aporta prestigio institucional.
+
 ## Convenciones
 
 - Fechas en formato `MM/AAAA – MM/AAAA` o `AAAA – Actualidad`.
