@@ -47,6 +47,22 @@ El `.docx` resultante es plano, en una sola columna, sin tablas ni cuadros de te
 
 **Regla HR**: incluir palabras clave del aviso o descripción del puesto en el cuerpo del CV (en perfil, bullets o competencias). Eso ayuda al filtro automático.
 
+## Cómo armar un anexo de certificados en un solo PDF
+
+Para enviar junto al CV un PDF único con los escaneos relevantes a la postulación:
+
+```bash
+scripts/armar-anexo.sh Anexo-Nautico-Docente \
+  certificaciones/2019-timonel-yate-vela-motor-pna.jpeg \
+  certificaciones/2019-guardavidas-diploma-amgaa.jpeg \
+  certificaciones/2019-libreta-guardias-historial.jpeg \
+  certificaciones/2023-titulo-profesor-ef-isef27.jpeg
+```
+
+El primer argumento es el nombre del PDF de salida (sin `.pdf`); el resto son los archivos en el orden en que querés que aparezcan. Se genera en `exports/`.
+
+Para subir nuevos escaneos: meterlos en `certificaciones/` con un nombre tipo `AAAA-tema-descripcion.jpeg` (ver `anexo-certificaciones.md` para la convención).
+
 ## Reglas fijas (aplican a TODAS las versiones del CV)
 
 - **Foto de perfil**: incluir siempre `certificaciones/foto-perfil.jpg` arriba del encabezado.
